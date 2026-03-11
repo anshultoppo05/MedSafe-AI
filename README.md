@@ -271,3 +271,4 @@ For issues, suggestions, or contributions:
 ---
 
 **Remember**: Always consult healthcare professionals for medical advice. MedSafe AI is a tool to assist, not replace, professional medical guidance.
+# MedSafe-AI
