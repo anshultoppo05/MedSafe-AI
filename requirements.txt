@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+pytesseract>=0.3.10
+Pillow>=11.0.0
+rapidfuzz>=3.6.0
+ollama>=0.1.14
+python-dotenv>=1.0.0
+numpy>=2.0.0
+pandas>=2.2.0
+opencv-python>=4.8.1
